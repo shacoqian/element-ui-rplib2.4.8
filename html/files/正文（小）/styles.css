@@ -1,0 +1,51 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:133px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u61_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:56px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif';
+  font-weight:400;
+  font-style:normal;
+}
+#u61 {
+  border-width:0px;
+  position:absolute;
+  left:77px;
+  top:271px;
+  width:56px;
+  height:22px;
+  font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif';
+  font-weight:400;
+  font-style:normal;
+}
+#u62 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:52px;
+  word-wrap:break-word;
+}
